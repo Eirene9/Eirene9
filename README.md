@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irene
 - 👀 I’m interested in 👩🏻‍💻 ☕️ </>
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me - here
 
