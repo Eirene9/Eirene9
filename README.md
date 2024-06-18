@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Irene
 - 👀 I’m interested in 👩🏻‍💻 ☕️ </>
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning Next.Js
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me - here
 
