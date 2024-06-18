@@ -2,7 +2,7 @@
 - 👀 I’m interested in 👩🏻‍💻 ☕️ </>
 - 🌱 I’m currently learning Next.Js
 - 💞️ I’m looking to collaborate on New Projects
-- 📫 How to reach me - here
+- 📫 irene.carbone@icloud.com
 
 <!---
 Eirene9/Eirene9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
